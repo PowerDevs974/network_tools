@@ -2,7 +2,7 @@ import sys
 import nmap
 
 if len(sys.argv) != 2:
-    print("Use: python port_scanner.py <IP_address>")
+    print("Usage: python port_scanner.py <IP_address>")
     sys.exit(1)
 
 target = sys.argv[1]
