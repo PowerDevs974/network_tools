@@ -1,6 +1,6 @@
 # Port Scanner in Python 🔍
 
-This Python script uses NMAP to scan open ports on a given IP address.
+This Python script uses NMAP to scan open ports on a given IPv4 address.
 
 ## Installation
 1. Install dependencies:
